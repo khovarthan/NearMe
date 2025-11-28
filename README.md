@@ -111,7 +111,7 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-```
+
 ![alt text](<Screenshot (32).png>)
 
 ![alt text](<Screenshot (33).png>)
@@ -123,6 +123,6 @@ Execute the programs and publish them.
 ![alt text](<Screenshot (36).png>)
 
 ![alt text](<Screenshot (37).png>)
-```
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
