@@ -1,5 +1,5 @@
 # Ex03 Places Around Me
-## Date: 
+## Date: 29.11.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -52,7 +52,7 @@ Execute the programs and publish them.
 <html>
     <head>
         <title>Fitness.html</title>
-        <body bgcolor="red">
+        <body bgcolor="violet">
             <h1 align="center" style="color:red;">Theni</h1>
             <h2 align="center" style="color:blue;">Khovarthan (25012253)</h2>
             <hr>
@@ -112,17 +112,12 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-![alt text](<Screenshot (32).png>)
-
-![alt text](<Screenshot (33).png>)
-
-![alt text](<Screenshot (34).png>)
-
-![alt text](<Screenshot (35).png>)
-
-![alt text](<Screenshot (36).png>)
-
-![alt text](<Screenshot (37).png>)
+![alt text](<Screenshot (38).png>) 
+![alt text](<Screenshot (39).png>) 
+![alt text](<Screenshot (40).png>) 
+![alt text](<Screenshot (41).png>)
+![alt text](<Screenshot (42).png>) 
+![alt text](<Screenshot (43).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
