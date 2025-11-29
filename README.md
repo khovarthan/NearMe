@@ -29,6 +29,8 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+map.html
+
 <html>
     <head>
         <title>map</title>
@@ -49,6 +51,8 @@ Execute the programs and publish them.
     </body>
 </html>
 
+Fitness.html
+
 <html>
     <head>
         <title>Fitness.html</title>
@@ -60,6 +64,8 @@ Execute the programs and publish them.
         </body>
     </head>
 </html>
+
+Mills.html
 
 <html>
     <head>
@@ -73,6 +79,8 @@ Execute the programs and publish them.
     </head>
 </html>
 
+naturals.html
+
 <html>
     <head>
         <title>naturals.html</title>
@@ -84,6 +92,8 @@ Execute the programs and publish them.
         </body>
     </head>
 </html>
+
+Sadaiyandi.html
 
 <html>
     <head>
@@ -97,6 +107,8 @@ Execute the programs and publish them.
     </head>
 </html>
 
+SSK.html
+
 <html>
     <head>
         <title>SSK.html</title>
@@ -108,6 +120,7 @@ Execute the programs and publish them.
         </body>
     </head>
 </html>
+
 ```
 
 ## OUTPUT
